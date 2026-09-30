@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "bithuman-docs": {
+      "type": "http",
+      "url": "https://docs.bithuman.ai/docs-mcp"
+    }
+  }
+}

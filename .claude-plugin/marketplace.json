@@ -1,0 +1,12 @@
+{
+  "name": "bithuman",
+  "owner": { "name": "bitHuman, Inc.", "email": "hello@bithuman.ai" },
+  "plugins": [
+    {
+      "name": "bithuman",
+      "source": "./",
+      "description": "Build real-time AI avatars with bitHuman: search the docs and follow a guided integration.",
+      "version": "1.0.0"
+    }
+  ]
+}

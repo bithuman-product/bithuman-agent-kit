@@ -1,0 +1,3 @@
+# Append to ~/.codex/config.toml
+[mcp_servers.bithuman-docs]
+url = "https://docs.bithuman.ai/docs-mcp"

@@ -1,0 +1,11 @@
+{
+  "name": "bithuman",
+  "version": "1.0.0",
+  "description": "Build real-time AI avatars with bitHuman: search the docs and follow a guided integration.",
+  "author": { "name": "bitHuman, Inc.", "email": "hello@bithuman.ai", "url": "https://www.bithuman.ai" },
+  "homepage": "https://docs.bithuman.ai/resources/agents",
+  "license": "Apache-2.0",
+  "keywords": ["bithuman", "avatar", "docs", "mcp", "skill"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
