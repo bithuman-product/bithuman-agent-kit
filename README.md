@@ -1,5 +1,7 @@
 # bitHuman agent kit
 
+[![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/x3tMhJvX4X) Questions, demos and challenges: [join the bitHuman Discord](https://discord.gg/x3tMhJvX4X).
+
 Connect an AI coding assistant to the bitHuman docs, and give it a skill for adding a bitHuman avatar to an app.
 
 bitHuman has two current models: Essence 2 renders a photoreal person from one portrait; Expression 2 renders any character (people, animals, cartoons) from one portrait.
