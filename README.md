@@ -1,3 +1,8 @@
+<!-- gitlab-migration: moved -->
+> **This repository moved to GitLab: [gitlab.com/bithuman/sdk/bithuman-agent-kit](https://gitlab.com/bithuman/sdk/bithuman-agent-kit).**
+> This GitHub copy is archived (read-only) and is no longer updated. Install the plugin from
+> GitLab: `/plugin marketplace add https://gitlab.com/bithuman/sdk/bithuman-agent-kit.git`
+
 # bitHuman agent kit
 
 [![Discord](https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white)](https://discord.gg/x3tMhJvX4X) Questions, demos and challenges: [join the bitHuman Discord](https://discord.gg/x3tMhJvX4X).
