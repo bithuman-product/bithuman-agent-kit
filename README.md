@@ -28,7 +28,7 @@ claude mcp add --transport http bithuman-docs https://docs.bithuman.ai/docs-mcp
 Or install this repo as a plugin (docs server + skill in one step):
 
 ```bash
-/plugin marketplace add <path-or-git-url-of-this-repo>
+/plugin marketplace add https://gitlab.com/bithuman/sdk/bithuman-agent-kit.git
 /plugin install bithuman@bithuman
 ```
 

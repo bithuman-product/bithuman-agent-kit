@@ -4,6 +4,7 @@
   "description": "Build real-time AI avatars with bitHuman: search the docs and follow a guided integration.",
   "author": { "name": "bitHuman, Inc.", "email": "hello@bithuman.ai", "url": "https://www.bithuman.ai" },
   "homepage": "https://docs.bithuman.ai/resources/agents",
+  "repository": "https://gitlab.com/bithuman/sdk/bithuman-agent-kit",
   "license": "Apache-2.0",
   "keywords": ["bithuman", "avatar", "docs", "mcp", "skill"],
   "skills": "./skills/",
